@@ -5,5 +5,5 @@
 
 # remove_duplicates.py
 - 用于大批量域名去重复
-- 根据，IP地址和域名，使用集合去重复
+- 根据，IP地址和域名 Key-Value在集合中去重复
 - 用处不大
